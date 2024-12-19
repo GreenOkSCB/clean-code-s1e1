@@ -157,7 +157,7 @@
 
 /* Edit Task */
 .list__item .task__input {
-  display: none
+  display: none;
 }
 
 .list__item.edit__mode .task__input {
